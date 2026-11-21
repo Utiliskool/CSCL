@@ -1,0 +1,18 @@
+{
+    "id": 114780096,
+    "name": "meowpau chal nerf",
+    "author": "nick24",
+    "creators": ["nick24"],
+    "verifier": "ad3usGMD",
+    "verification": "https://www.youtube.com/watch?v=MHcoMqO1du0",
+    "percentToQualify": "100",
+    "password": "Bru just copy it",
+    "records": [
+        {
+            "user": "randomperson_360",
+            "link": "https://www.youtube.com/watch?v=DSFoCPGduNw&list=RDDSFoCPGduNw&start_radio=1",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}

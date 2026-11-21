@@ -1,0 +1,18 @@
+{
+    "id": 150789936,
+    "name": "ad3us chal practice",
+    "author": "itzgloosy",
+    "creators": ["itzgloosy"],
+    "verifier": "ad3usGMD",
+    "verification": "https://www.youtube.com/watch?v=m3YvcDZfuy8&t=21s",
+    "percentToQualify": "100",
+    "password": "Bru just copy it",
+    "records": [
+        {
+            "user": "Rob01",
+            "link": "https://www.youtube.com/watch?v=DSFoCPGduNw&list=RDDSFoCPGduNw&start_radio=1",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}
