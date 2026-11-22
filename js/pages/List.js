@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed)
+                        Achieved the record without using hacks (however, FPS bypass and TPS bypass is allowed, TPS bypass is allowed up to 480 TPS)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
