@@ -1,16 +1,16 @@
 [
   {
-    "role": "crown",
+    "role": "owner",
     "name": "Util",
     "link": "https://www.youtube.com/@youtil_tungtung"
   },
   {
-    "role": "user-gear",
+    "role": "admin",
     "name": "Squeeg",
     "link": "https://www.youtube.com/@squeeg-gaming"
   },
   {
-    "role": "user-shield",
+    "role": "helper",
     "name": "Mloki",
     "link": "https://www.youtube.com/@NotMloki"
   },
@@ -20,7 +20,7 @@
     "link": "https://www.youtube.com/@TankaJahari-420"
   },
   {
-    "role": "code",
+    "role": "trial",
     "name": "Wucaf",
     "link": "https://www.youtube.com/@wucaf"
   }
