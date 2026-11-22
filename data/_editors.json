@@ -1,27 +1,27 @@
 [
-    {
-        "role": "owner",
-        "name": "Util",
-        "link": "https://www.youtube.com/@youtil_tungtung"
-    },
-    {
-        "role": "admin",
-        "name": "Squeeg",
-        "link": "https://www.youtube.com/@squeeg-gaming"
-    },
-    {
-        "role": "helper",
-        "name": "Mloki",
-        "link": "https://www.youtube.com/@NotMloki"
-    },
-    {
-        "role": "helper",
-        "name": "Tanka",
-        "link": "https://www.youtube.com/@TankaJahari-420"
-   },
-    {
-        "role": "trial",
-        "name": "Wucaf",
-        "link": "https://www.youtube.com/@wucaf"
-    }
+  {
+    "role": "crown",
+    "name": "Util",
+    "link": "https://www.youtube.com/@youtil_tungtung"
+  },
+  {
+    "role": "user-gear",
+    "name": "Squeeg",
+    "link": "https://www.youtube.com/@squeeg-gaming"
+  },
+  {
+    "role": "user-shield",
+    "name": "Mloki",
+    "link": "https://www.youtube.com/@NotMloki"
+  },
+  {
+    "role": "user-shield",
+    "name": "Tanka",
+    "link": "https://www.youtube.com/@TankaJahari-420"
+  },
+  {
+    "role": "code",
+    "name": "Wucaf",
+    "link": "https://www.youtube.com/@wucaf"
+  }
 ]
