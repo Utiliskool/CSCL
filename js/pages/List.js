@@ -123,6 +123,9 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it still, 
                     </p>
+                    <p>
+                        If you are caught for cheating completions you will be asked to show all mods when completing levels.
+                    </p>
                 </div>
             </div>
         </main>
