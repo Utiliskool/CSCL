@@ -127,7 +127,7 @@ export default {
                         If you are caught for cheating completions you will be asked to show all mods when completing levels.
                     </p>
                     <p>
-                        It is reccomended to show all mods after completing a level, this rule does not apply to list staff.
+                        It is recommended to show all mods after completing a level, this rule does not apply to list staff.
                     </p>                    
                 </div>
             </div>
