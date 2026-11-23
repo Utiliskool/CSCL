@@ -100,32 +100,35 @@ export default {
                     </template>
                     <h3>Submission Rules</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass and TPS bypass is allowed, TPS bypass is allowed up to 480 TPS)
+                        Achieved the record without using hacks (however, FPS bypass and TPS bypass is allowed, TPS bypass is allowed up to 480 TPS).
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Have either source audio or clicks/taps in the video, Edited audio only does not count.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this.
                     </p>
                     <p>
                         The recording must also show the player hit the endwall and show the cheat indicator if played with megahack or a different mod client or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Do not use secret routes or bug routes.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Do not use easy modes, only a record of the unmodified level qualifies.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it still, 
+                        Once a level falls onto the Legacy List, we accept records for it still.
                     </p>
                     <p>
                         If you are caught for cheating completions you will be asked to show all mods when completing levels.
                     </p>
+                    <p>
+                        It is reccomended to show all mods after completing a level, this rule does not apply to list staff.
+                    </p>                    
                 </div>
             </div>
         </main>
