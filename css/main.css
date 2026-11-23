@@ -63,6 +63,27 @@ header .logo {
     justify-self: end;
     align-self: center;
     display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+header .logo img {
+    height: 3rem;
+    width: 3rem;
+    border-radius: 0.5rem;
+    object-fit: cover;
+}
+
+header .logo p {
+    align-self: flex-end;
+}
+
+header .nav {
+    flex: 1;
+}    
+    justify-self: end;
+    align-self: center;
+    display: flex;
     align-items: flex-end;
     gap: 1rem;
 }
