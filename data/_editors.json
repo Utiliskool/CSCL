@@ -5,7 +5,7 @@
     "link": "https://www.youtube.com/@youtil_tungtung"
   },
   {
-    "role": "admin",
+    "role": "owner",
     "name": "Squeeg",
     "link": "https://www.youtube.com/@squeeg-gaming"
   },
@@ -15,17 +15,17 @@
     "link": "https://www.youtube.com/@astroguy-f1g"
   },
   {
+    "role": "admin",
+    "name": "Tanka",
+    "link": "https://www.youtube.com/@TankaJahari-420"
+  },
+  {
     "role": "helper",
     "name": "Mloki",
     "link": "https://www.youtube.com/@NotMloki"
   },
   {
     "role": "helper",
-    "name": "Tanka",
-    "link": "https://www.youtube.com/@TankaJahari-420"
-  },
-  {
-    "role": "trial",
     "name": "Wucaf",
     "link": "https://www.youtube.com/@wucaf"
   }
