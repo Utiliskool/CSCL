@@ -19,7 +19,12 @@
             "link": "https://www.youtube.com/watch?v=DSFoCPGduNw&list=RDDSFoCPGduNw&start_radio=1",
             "percent": 100,
             "hz": "CBF"
-
+        },
+        {   
+            "user": "ArturGD24",
+            "link": "https://www.youtube.com/watch?v=qoO5xlGePnQ",
+            "percent": 100,
+            "hz": "CBF"
         }
     ]
 }
