@@ -4,13 +4,13 @@
     "author": "puremidnight",
     "creators": ["puremidnight"],
     "verifier": "rob01",
-    "verification": "",
+    "verification": "https://youtube.com",
     "percentToQualify": "100",
     "password": "Free to copy",
     "records": [
         {
             "user": "ArturGD24",
-            "link": "https://www.youtube.com/VEebE-H4ayY",
+            "link": "https://www.youtube.com/watch?v=VEebE-H4ayY",
             "percent": 100,
             "hz": "CBF"
         }
