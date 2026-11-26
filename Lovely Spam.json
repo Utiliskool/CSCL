@@ -1,0 +1,30 @@
+{
+    "id": 127709919,
+    "name": "Lovely Spam",
+    "author": "ILoveLilies",
+    "creators": ["ILoveLilies"],
+    "verifier": "Ywuchud",
+    "verification": "https://www.youtube.com/watch?v=yMNeA6nbP_I",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Ad3usGMD",
+            "link": "https://www.youtube.com/watch?v=xhben7txBk8&t=1001s",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "randomperson_360",
+            "link": "https://spamchallengelist.com/",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "Purel",
+            "link": "https://www.youtube.com/watch?v=57VymVu9090&t=79s",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}
