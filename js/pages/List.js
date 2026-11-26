@@ -26,7 +26,7 @@ export default {
                     type="text"
                     v-model="searchQuery"
                     class="list-search"
-                    placeholder="Search level, creator, ID, or #rank..."
+                    placeholder="Search level(s)"
                 />
                 <table class="list" v-if="filteredList.length">
                     <tr v-for="{ level, err, i } in filteredList" :key="i">
