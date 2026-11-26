@@ -16,11 +16,16 @@ header.dark {
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: #283593;
-    --color-primary-disabled: #1f213c;
-    --color-on-primary: white;
+    --color-primary: #b39ddb;
+    --color-primary-disabled: #7e69ab;
+    --color-on-primary: #1c1b1f;
     --color-error: #de0000;
     --color-on-error: white;
+}
+header,
+header.dark {
+    --color-primary: #b39ddb;
+    --color-on-primary: #1c1b1f;
 }
 
 html,
