@@ -85,7 +85,7 @@ export default {
                     </table>
                 </div>
                 <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
-                    <p>(ノಠ益ಠ)ノ彡┻━┻</p>
+                    <p>Error with the level! Please notify staff, we will get on it.</p>
                 </div>
             </div>
             <div class="meta-container">
@@ -114,7 +114,7 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video, Edited audio only does not count.
+                        You must have non-edited clicks in your completions, if there is no click audio or edited clicks it will be invalidated 
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this.
