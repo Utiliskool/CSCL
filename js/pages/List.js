@@ -21,9 +21,16 @@ export default {
             <Spinner></Spinner>
         </main>
         <main v-else class="page-list">
-            <div class="list-container">
-                <table class="list" v-if="list">
-                    <tr v-for="([level, err], i) in list">
+                        <div class="list-container">
+                <input
+                    type="text"
+                    v-model="searchQuery"
+                    class="list-search"
+                    placeholder="Search level, creator, ID, or #rank..."
+                />
+                <table class="list" v-if="filteredList.length">
+                    <tr v-for="{ level, err, i } in filteredList" :key="i">
+
                         <td class="rank">
                             <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
@@ -35,6 +42,7 @@ export default {
                         </td>
                     </tr>
                 </table>
+                <p v-else class="type-label-lg" style="padding: 1rem;">No matching levels found.</p>
             </div>
             <div class="level-container">
                 <div class="level" v-if="level">
@@ -140,7 +148,8 @@ export default {
         selected: 0,
         errors: [],
         roleIconMap,
-        store
+        store,
+        searchQuery: "",
     }),
     computed: {
         level() {
@@ -156,6 +165,23 @@ export default {
                     ? this.level.showcase
                     : this.level.verification
             );
+        },
+        filteredList() {
+                        const query = this.searchQuery.trim().toLowerCase();
+            return this.list
+                .map(([level, err], i) => ({ level, err, i }))
+                .filter(({ level, i }) => {
+                    if (!query) return true;
+                    if (!level) return false;
+                    return (
+                        level.name?.toLowerCase().includes(query) ||
+                        level.author?.toLowerCase().includes(query) ||
+                        level.verifier?.toLowerCase().includes(query) ||
+                        level.creators?.some((c) => c.toLowerCase().includes(query)) ||
+                        String(level.id || "").includes(query) ||
+                        `#${i + 1}`.includes(query)
+                    );
+                });
         },
     },
     async mounted() {
