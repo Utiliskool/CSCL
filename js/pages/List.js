@@ -96,6 +96,9 @@ export default {
                     <div class="og">
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
                     </div>
+                    <p>
+                        Welcome to the CSCL! A website ran by Util made for ranking the top hardest control spam challenges! This website is still underdevelopment so some elements may be unpolished or broken
+                    </p>
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
